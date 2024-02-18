@@ -66,4 +66,4 @@ This repository contains my solutions of different coding problems from Hackerra
 | Problem Number | Problem | Solution link | 
 | :---------------------- | :---------------------- | :---------------------- | 
 | **#1** | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Python 3](algorithms/simple_array_sum.py) |
-| **#1** | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [Python 3](algorithms/minimax_sum.py) |
+| **#2** | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | [Python 3](algorithms/minimax_sum.py) |
